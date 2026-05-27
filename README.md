@@ -1,14 +1,20 @@
-# Pon aquí el título de tu práctica o no, no soy tu papá
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jw8MUQHd)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=24021027)
+# Práctica 5: Modelos De Similitud Geométrica
 
-(Si no eliminas esta línea lloro) Este es un archivo de ejemplo donde debes de colocar la respuesta a tus ejercicios, piénsalo como tu reporte de práctica. Aquí puedes introducir el problema y definir los términos que consideres apropiados de forma concisa.
+El Problema del Campeonato de Pesca De Róbalo.
+
+Imaginemos que la competencia premia al pez más pesado, pero la única herramienta con la que contamos para determinar el peso de los peces es una cinta métrica. Como en las versiones anteriores del campeonato asistieron miles de participantes queremos poder predecir el peso de un pescado en término de algunas dimensiones fáciles de medir. A pesar de que el peso de un pescado se ve afectado por variables como la forma del pescado,la densidad del pescado, la edad del pescado, entre otras, haremos un modelo que dependa solo de variables medibles por nuestra cinta métrica. Algunos de los supuestos que usaremos en nuestro modelo son que:
+* la especie está fija y todos los pescados serán robalos. (En general esto sí sucede en
+los campeonatos).
+* la densidad de los pescados es constante. (Esto es poco realista pero nos servirá
+para un primer modelo).
+* las variables como la estación del año, el sexo, la edad, etc. no afectan al peso del
+róbalo.
+* los róbalos son geométricamente similares.
 
 ## Integrantes
-
-(Si no eliminas esta línea lloro) Escribe tus integrantes iniciando por apellido de forma alfabética
-
-- (Si no modificas esta línea lloro) Babilonia, Aureliano
-- (Si no modificas esta línea lloro) Buendía, Aureliano
-- (Si no modificas esta línea lloro) Segundo, Aureliano
+- Rodríguez Rodríguez Diego 
 
 
 ## Uso e instalación
@@ -21,6 +27,9 @@
 
 - `main.py`: Contiene el código para graficar cada uno de los tres ejercicios
 - `` (Por favor modifica esta línea)
+
+
+
 
 ## Ejercicio 1
 
